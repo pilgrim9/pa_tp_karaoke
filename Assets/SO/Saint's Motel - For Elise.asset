@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a5da1c34caa48458852d20d0ce2f76, type: 3}
+  m_Name: Saint's Motel - For Elise
+  m_EditorClassIdentifier: 
+  lyrics:
+  - text: When it's tough
+    appearanceTime: 0
+    disappearTime: 0
+  - text: When you get stuck
+    appearanceTime: 0
+    disappearTime: 0
+  - text: You're at the wall
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Of the writer's block
+    appearanceTime: 0
+    disappearTime: 0
+  - text: You need a spark
+    appearanceTime: 0
+    disappearTime: 0
+  - text: A light in the dark
+    appearanceTime: 0
+    disappearTime: 0
+  - text: To get you out of your head
+    appearanceTime: 0
+    disappearTime: 0
+  - text: And into your heart
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Taking a walk on the wild side
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Something in the way she moves
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Candle in the wind
+    appearanceTime: 0
+    disappearTime: 0
+  - text: And it's blowing everywhere we go
+    appearanceTime: 0
+    disappearTime: 0
+  - text: All these girls got something going on
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Met in the club her name was Lola
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Champagne tasting Coca-Cola
+    appearanceTime: 0
+    disappearTime: 0
+  - text: In the hands of my loving
+    appearanceTime: 0
+    disappearTime: 0
+  - text: My love does her good
+    appearanceTime: 0
+    disappearTime: 0
+  - text: All us boys need something, that they got
+    appearanceTime: 0
+    disappearTime: 0
+  - text: This one's for Elise
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Norma Jean, Pattie Boyd and Carole King
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Holly Woodlawn, Linda Eastman
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Candy Darling got it started with a song
+    appearanceTime: 0
+    disappearTime: 0
+  - text: This one's for Elise
+    appearanceTime: 0
+    disappearTime: 0
+  - text: The muses of the Greeks and Romans
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Steal the immortal beloved of Beethoven
+    appearanceTime: 0
+    disappearTime: 0
+  - text: They all lit a spark and you know that they got it going
+    appearanceTime: 0
+    disappearTime: 0
+  - text: 'Shout out to the girl, over there, in my chair:'
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Whoa Elise, Norma Jean
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Pattie Boyd and Carole King
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Holly Woodlawn, Linda Eastman, Candy Darling got it started with a song
+    appearanceTime: 0
+    disappearTime: 0
+  - text: This one's for Elise
+    appearanceTime: 0
+    disappearTime: 0
+  - text: This one's for Elise, Norma Jean, Pattie Boyd and Carole King
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Holly Woodlawn, Linda Eastman, Candy Darling got it started
+    appearanceTime: 0
+    disappearTime: 0
+  - text: For Elise, Norma Jean, Pattie Boyd and Carole King
+    appearanceTime: 0
+    disappearTime: 0
+  - text: Holly Woodlawn, Linda Eastman, Candy Darling got it started with a song
+    appearanceTime: 0
+    disappearTime: 0
+  - text: This one's for Elise
+    appearanceTime: 0
+    disappearTime: 0
+  fullLyrics: 'When it''s tough
+
+    When you get stuck
+
+    You''re at the wall
+
+    Of
+    the writer''s block
+
+    You need a spark
+
+    A light in the dark
+
+    To get
+    you out of your head
+
+    And into your heart
+
+    Taking a walk on the wild
+    side
+
+    Something in the way she moves
+
+    Candle in the wind
+
+    And it''s
+    blowing everywhere we go
+
+    All these girls got something going on
+
+    Met
+    in the club her name was Lola
+
+    Champagne tasting Coca-Cola
+
+    In the hands
+    of my loving
+
+    My love does her good
+
+    All us boys need something, that
+    they got
+
+    This one''s for Elise
+
+    Norma Jean, Pattie Boyd and Carole King
+
+    Holly
+    Woodlawn, Linda Eastman
+
+    Candy Darling got it started with a song
+
+    This
+    one''s for Elise
+
+    The muses of the Greeks and Romans
+
+    Steal the immortal
+    beloved of Beethoven
+
+    They all lit a spark and you know that they got it
+    going
+
+    Shout out to the girl, over there, in my chair:
+
+    Whoa Elise, Norma
+    Jean
+
+    Pattie Boyd and Carole King
+
+    Holly Woodlawn, Linda Eastman, Candy
+    Darling got it started with a song
+
+    This one''s for Elise
+
+    This one''s
+    for Elise, Norma Jean, Pattie Boyd and Carole King
+
+    Holly Woodlawn, Linda
+    Eastman, Candy Darling got it started
+
+    For Elise, Norma Jean, Pattie Boyd
+    and Carole King
+
+    Holly Woodlawn, Linda Eastman, Candy Darling got it started
+    with a song
+
+    This one''s for Elise'
