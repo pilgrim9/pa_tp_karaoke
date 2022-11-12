@@ -7,7 +7,7 @@ using UnityEngine;
 public class AudioSourceLoader : MonoBehaviour
 {
     AudioSource audioSource;
-    void Start()
+    void Awake()
     {
         audioSource = GetComponent<AudioSource>();
         audioSource.volume = PlayerPrefManager.instance.GetVolume() / (float)PlayerPrefManager.DEFAULT_VOLUME;
